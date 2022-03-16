@@ -6,7 +6,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -32,13 +31,11 @@ List the ready features here:
 - Generic E-commerce site features
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 ### Project Requirements
 + You should have the aforementioned versions of Node and MongoDB for optimal performance.
 + You may need to signup for Stripe as the api-key used for this project is not included in the files.
 + The dependencies for this project are listed in the package.json file
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
 ### Run the Project
 + Download the source code and unzip or use "git clone"
 + navigate to the project's directory
