@@ -1,5 +1,5 @@
 # SHOP API
-> This project is an API for an online market built with Node and Express
+> This project is an API for an online market built with Node, Express and MongoDB
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
