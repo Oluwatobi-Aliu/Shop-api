@@ -65,5 +65,6 @@ To do:
 
 ## Acknowledgements
 Give credit here.
+- This project is based on a MERN course from packt
 - This project was inspired by Hamzat Fetuga
 - Many thanks to...
