@@ -1,6 +1,6 @@
 # SHOP API
 > This project is an API for an online market built with Node, Express and MongoDB
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -44,10 +44,7 @@ List the ready features here:
     $ npm install
     $ npm start
    ```
-  
-
-## Usage
-Here is the documentation using [Postman]()
+ 
 
 ## Project Status
 Project is: _in progress_
